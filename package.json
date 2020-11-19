@@ -1,0 +1,16 @@
+{
+    "name": "tutorial1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test especified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@antiadmin/anticaptchaofficial": "^1.0.9",
+        "puppeteer": "^5.5.0"
+    }
+}
